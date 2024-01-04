@@ -40,7 +40,7 @@
 }
 .contactUs {
   backdrop-filter: blur(15px);
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.7);
   border-radius: 5px;
 }
 </style>
